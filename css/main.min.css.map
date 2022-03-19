@@ -12,6 +12,7 @@
         "../sass/layout/_header.scss",
         "../sass/layout/_hero.scss",
         "../sass/layout/_about.scss",
+        "../sass/layout/_clients.scss",
         "../sass/layout/_images.scss",
         "../sass/layout/_team.scss",
         "../sass/layout/_menu.scss",
